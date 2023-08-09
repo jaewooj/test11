@@ -1,0 +1,36 @@
+.html {
+    width: 95%;
+    animation-delay: 0.1s;
+}
+.css {
+    width: 95%;
+    animation-delay: 0.1s;
+}
+.javascript{
+    width: 90%;
+    animation-delay: 0.2s;
+}
+.react{
+    width: 90%;
+    animation-delay: 0.2s;
+}
+.redux{
+    width: 90%;
+    animation-delay: 0.2s;
+}
+.nextjs{
+    width: 80%;
+    animation-delay: 0.3s;
+}
+.mysql{
+    width: 50%;
+    animation-delay: 0.3s;
+}
+.nodejs{
+    width: 30%;
+    animation-delay: 0.3s;
+}
+.expressjs{
+    width: 30%;
+    animation-delay: 0.3s;
+}

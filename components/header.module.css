@@ -1,0 +1,34 @@
+.header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 100px;
+}
+.header h1 {
+    position: absolute;
+    left: 0;
+    top: 60px;
+    color: #fff;
+}
+.header h1 a {
+    color: #fff;
+    font-size: 25px;
+}
+.header nav {
+    position: absolute;
+    right: 200px;
+    top: 60px;
+    z-index: 1000;
+}
+.header nav ul {
+    display: flex;
+}
+.header nav ul li {
+    margin-left: 80px;
+    color: #fff;
+}
+.header nav ul li a {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
